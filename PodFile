@@ -1,0 +1,7 @@
+# Podfile
+use_frameworks!
+
+target 'Controls' do
+    pod 'RxSwift',    '~> 4.0.0'
+    pod 'RxCocoa',    '~> 4.0.0'
+end
